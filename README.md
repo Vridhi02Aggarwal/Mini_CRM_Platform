@@ -30,7 +30,7 @@ The application includes:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/mini-crm-platform.git
+git clone https://github.com/Vridhi02Aggarwal/Mini_CRM_Platform.git
 cd mini-crm-platform
 ```
 
@@ -44,7 +44,6 @@ npm install
 npm start
 ```
 
-4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Project Structure
 
